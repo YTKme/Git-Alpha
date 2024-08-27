@@ -1,2 +1,3 @@
-# Git-Alpha
+# Git Alpha
+
 Git Alpha
